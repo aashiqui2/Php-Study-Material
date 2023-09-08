@@ -1,0 +1,3 @@
+This is the best file on this planet. Please dont argue with me on this one.
+This is another content
+This is another content3This is being appended to the file
